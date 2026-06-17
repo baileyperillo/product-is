@@ -43,8 +43,8 @@ It is not mentioned in the issue. I am doing further research on the code and fr
 ## Reproduction Process
 
 ### Environment Setup
-
-[Notes on setting up your local development environment - challenges you faced, how you solved them]
+I am still working on the local development setup. For the canidate issue I have selected, there are multiple documentations to refer to so I hd to read each of them and see if some were outdated or not. I also had to empty some storage to do anything and undo some of the progress I made from last week because I setup the wrong environment when trying to complete Phase 1 and before reading Phase 2.
+I will start reproducing the issue by this week.
 
 ### Steps to Reproduce
 
