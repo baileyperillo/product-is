@@ -46,6 +46,9 @@ It is not mentioned in the issue. I am doing further research on the code and fr
 I am still working on the local development setup. For the canidate issue I have selected, there are multiple documentations to refer to so I hd to read each of them and see if some were outdated or not. I also had to empty some storage to do anything and undo some of the progress I made from last week because I setup the wrong environment when trying to complete Phase 1 and before reading Phase 2.
 I will start reproducing the issue by this week.
 
+### Week 3:
+still working on Phase 2. I finished setting up my environment and installing the project. I had a lot of documents to read and had problems downloading the necessary packages for the program. I am working on reproducing the issue. I should have Phase 2 finished by the end of this week. I will finish Phase 3 by that time as well.
+
 ### Steps to Reproduce
 
 1. [Step 1]
